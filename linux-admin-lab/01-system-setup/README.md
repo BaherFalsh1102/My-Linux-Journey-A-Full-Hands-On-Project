@@ -1,1 +1,1 @@
-![system-setup](D:\Images\WallPapers\astronaut-ocean-swimming.jpg)
+![system-setup](astronaut-ocean-swimming.jpg)
