@@ -1,9 +1,9 @@
 # My-Linux-Journey-A-Full-Hands-On-Project 🚀 
 
-Welcome to my hands-on Linux Administration Lab! This project is a practical walkthrough of core Linux administration topics—from system installation to backups, security, automation, and even cloud deployment.
+Welcome to my hands-on Linux Administration Lab! This project is a practical walkthrough of core Linux administration topics—from system installation to backups, security, automation.
 
 🎯 **Goal:** To demonstrate real-world skills as a Linux Administrator  
-📚 **Tools Used:** Ubuntu / CentOS, Bash, systemd, iptables, rsync, crontab, and more  
+📚 **Tools Used:** Ubuntu, Bash, systemd, iptables, rsync, crontab, and more  
 🔧 **Target Audience:** Beginners to intermediate learners, recruiters, and tech enthusiasts  
 
 ---
@@ -17,7 +17,6 @@ Welcome to my hands-on Linux Administration Lab! This project is a practical wal
 5. Linux Security  
 6. Package Management & Bash Scripting  
 7. Monitoring & Log Management  
-8. Backups & Restore  
 
 ---
 
