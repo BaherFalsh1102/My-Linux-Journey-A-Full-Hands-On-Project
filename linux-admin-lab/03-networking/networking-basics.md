@@ -38,6 +38,7 @@ sudo nmcli connection modify "Wired connection 1" ipv4.addresses 192.168.1.100/2
 sudo nmcli connection down "Wired connection 1"
 sudo nmcli connection up "Wired connection 1"
 ```
+---
 ## 🌍 3️⃣ Checking Network Connectivity
 ### 🏓 Ping a Website
 ```bash
@@ -56,7 +57,8 @@ traceroute google.com
 nslookup google.com
 dig google.com
 ```
-## 🌍 3️⃣ Checking Network Connectivity
+---
+## 🔐 4️⃣ Firewall & Port Checking
 ### 📖 List Open Ports
 ```bash
 netstat -tulnp
