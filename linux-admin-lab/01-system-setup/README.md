@@ -1,1 +1,1 @@
-![system-setup](D:/LinkedIn_content/linux-admin-lab/01-system-setup/astronaut-ocean-swimming.jpg)
+![system-setup](https://cyberpanel.net/wp-content/uploads/2024/10/linux-install.jpeg)
