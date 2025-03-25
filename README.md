@@ -18,7 +18,6 @@ Welcome to my hands-on Linux Administration Lab! This project is a practical wal
 6. Package Management & Bash Scripting  
 7. Monitoring & Log Management  
 8. Backups & Restore  
-9. Bonus: Deploying on the Cloud ☁️  
 
 ---
 
