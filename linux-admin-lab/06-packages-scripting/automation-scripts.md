@@ -40,6 +40,7 @@ echo "Hello, $USER! Today is $(date)."
 chmod +x hello.sh
 ./hello.sh
 ```
+---
 ## 🚀 3️⃣ Writing a System Update Script
 ### 📄 Creating a Simple Bash Script
 **a script named `update-system.sh` has created**
@@ -52,6 +53,7 @@ echo "System update completed!"
 chmod +x update-system.sh
 ./update-system.sh
 ```
+---
 ## 🛠️ 4️⃣ Automating Backups with Crontab
 ### 📂 Backup a Directory Every Day
 **a script named `backup.sh` has created**
