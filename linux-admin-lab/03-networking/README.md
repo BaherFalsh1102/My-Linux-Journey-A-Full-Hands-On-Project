@@ -1,0 +1,1 @@
+![network basics](../Images/full_networking-basics.png)
